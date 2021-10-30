@@ -60,7 +60,7 @@ const TileWords = [
         isClicked: 0
     },
     {
-        word: ' ',
+        word: '❌',
         id: 12,
         isClicked: 0
     },
